@@ -15,6 +15,8 @@ def main():
     #
     # add_two_lists = Solution().addTwoNumbers(l1, l2)
     # add_two_lists.traverse_list()
+    # nums = [1,3,5]
+    # print(search_insert_position_sorted_arr(nums, 4))
     pass
 
 
