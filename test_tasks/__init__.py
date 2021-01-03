@@ -4,3 +4,4 @@ from .multiples import *
 from .remove_duplicates import *
 from .avg_grade_students_list import *
 from .search_insert_position_sorted_arr import *
+from .valid_parentheses import *
